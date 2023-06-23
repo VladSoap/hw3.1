@@ -2,11 +2,11 @@ package homework6;
 public class Main {
     public void throwExceptions() throws Exception {
         try {
-            throw new Exception("Exception in try block");
+            throw new Exception("Exception found in try block");
         } catch (Exception e) {
-            throw new Exception("Exception in catch block");
+            throw new Exception("Exception found in catch block");
         } finally {
-            throw new Exception("Exception in finally block");
+            throw new Exception("Exception found in finally block");
         }
     }
     public static void main(String[] args) {
