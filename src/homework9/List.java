@@ -125,5 +125,3 @@ class MyArrayList<T> implements List<T> {
     }
 }
 
-
-
