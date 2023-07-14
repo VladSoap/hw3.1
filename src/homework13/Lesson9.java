@@ -1,5 +1,4 @@
 package homework13;
-
 public class Lesson9 {
     public static void main(String [] args){
         for(int i=0;i<=15;i++){
@@ -8,6 +7,5 @@ public class Lesson9 {
             }
             System.out.println("Это нечетное число "+i);
         }
-
     }
 }
