@@ -1,7 +1,0 @@
-package homework_18.Lesson32;
-
-public class Animal {
-    public void eat() {
-        System.out.println("Animal is eating");
-    }
-}
