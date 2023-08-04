@@ -1,4 +1,4 @@
-package homework17;
+package homework18.Lesson32;
 
 public class Animal {
     public void eat() {
